@@ -10,8 +10,10 @@ A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design
 
 ## Features
 
+* Auto Dark Mode
 * Posts' Last Modified Date
 * Table of Contents
+* Recommand Related Post Automatically
 * Disqus Comments
 * Syntax highlighting
 * Two Level Categories
@@ -23,7 +25,7 @@ A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design
 * SEO Tag
 * Performance Optimization
 
-## Getting Started
+## Quick Start
 
 ### Preparation
 
