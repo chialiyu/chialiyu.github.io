@@ -15,5 +15,6 @@ panel:
   lastmod: "Recent Update"
   trending_tags: "Trending Tags"
   toc: "Contents"
+  announcement: "Announcement"
 
 search_hint: "Search"   # text show on search bar
