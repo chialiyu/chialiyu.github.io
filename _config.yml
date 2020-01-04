@@ -8,19 +8,19 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy
+title: Progression
 
-description: 'A text-focused Jekyll theme.'
+description: 'A personal blog about life, career and tech.'
 
 # Replace with your domain, e.g. 'https://username.github.io'
 url: 'https://chialiyu.github.io'
 
-author: your_full_name                  # change to your full name
+author: Jellyfish # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # Support network resources.
+avatar: /assets/img/commons/ComputerCatSmall.png   # Support network resources.
 
 github:
-  username: github_username             # change to your github username
+  username: chialiyu             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -31,7 +31,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/chialiyu       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -44,7 +44,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Chicago
 
 google_analytics:
   # Fill with your Google Analytics ID
@@ -62,12 +62,12 @@ disqus:
   shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # The year your website first ran.
-first_run: 2019
+first_run: 2020
 
 # boolean type, global switch for ToC in posts.
 toc: true
 
-paginate: 10
+paginate: 2
 
 markdown: kramdown
 
