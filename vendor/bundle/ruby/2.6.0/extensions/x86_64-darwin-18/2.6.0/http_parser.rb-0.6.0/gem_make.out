@@ -1,0 +1,16 @@
+current directory: /Users/z037900/gitks/jekyll-theme-chirpy/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/Users/z037900/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/z037900/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200103-177-1n73evf.rb extconf.rb
+creating Makefile
+
+current directory: /Users/z037900/gitks/jekyll-theme-chirpy/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/z037900/gitks/jekyll-theme-chirpy/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/z037900/gitks/jekyll-theme-chirpy/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20200103-177-111s26j
