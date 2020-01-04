@@ -1,10 +1,10 @@
 ---
 title: Getting Started
-date: 2019-08-09 20:55:00 +0800
+date: 2015-08-09 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
 seo:
-  date_modified: 2020-01-02 01:21:43 +0800
+  date_modified: 2015-01-02 01:21:43 +0800
 ---
 
 ## Preparation

@@ -1,10 +1,10 @@
 ---
 title: Writing a New Post
-date: 2019-08-08 14:10:00 +0800
+date: 2015-08-08 14:10:00 +0800
 categories: [Blogging, Tutorial]
 tags: [writing]
 seo:
-  date_modified: 2019-12-31 03:52:49 +0800
+  date_modified: 2015-12-31 03:52:49 +0800
 ---
 
 ## Naming and Path
@@ -93,4 +93,3 @@ If you want to display the **Liquid** snippet, surround the liquid code with `{%
 
 ## Learn More
 For more knowledge about Jekyll posts, visit the [Jekyll Docs: Posts](https://jekyllrb.com/docs/posts/).
-

@@ -10,7 +10,7 @@
 
 title: Progression
 
-description: 'A personal blog about life, career and tech.'
+description: 'A personal blog about life, career and tech. Celebreate progression and small wins in everyday life.'
 
 # Replace with your domain, e.g. 'https://username.github.io'
 url: 'https://chialiyu.github.io'
@@ -23,15 +23,15 @@ github:
   username: chialiyu             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: chialiyu            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: chialiyu                  # it will shows as the copyright owner in Footer
+  email:             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/chialiyu       # change to your github homepage
+    - https://twitter.com/chialiyu      # change to your twitter page
+    - https://github.com/chialiyu       # change to your github page
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -67,7 +67,7 @@ first_run: 2020
 # boolean type, global switch for ToC in posts.
 toc: true
 
-paginate: 2
+paginate: 4
 
 markdown: kramdown
 
@@ -99,7 +99,7 @@ defaults:
       location: Post
       breadcrumb:
         -
-          label: Posts
+          label: Postsar
           url: /
   -
     scope:
@@ -113,7 +113,7 @@ defaults:
       location: Tag
       breadcrumb:
         -
-          label: Home
+          label:
           url: /
         -
           label: Tags
@@ -125,7 +125,7 @@ defaults:
       location: Category
       breadcrumb:
         -
-          label: Home
+          label:
           url: /
         -
           label: Categories
@@ -138,7 +138,7 @@ defaults:
       dynamic_title: true    # Hide title in mobile screens.
       breadcrumb:
         -
-          label: Home
+          label:
           url: /
 
 sass:

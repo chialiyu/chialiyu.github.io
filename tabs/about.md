@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+I am from Taiwan. Currently living in Minneapolis with my husband Kirby and 2 lovely children, Evan and Ally. I was a software engineer. Now leading a team to create CI/CD tools to accelerate speed of innovation.
